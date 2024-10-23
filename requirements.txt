@@ -4,3 +4,6 @@ base58==2.0.1
 subprocess
 os
 pickle
+numpy==1.26.4
+setuptools==75.2.0
+wheel==0.43.0
